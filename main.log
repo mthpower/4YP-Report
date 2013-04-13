@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  13 APR 2013 19:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  13 APR 2013 20:07
 entering extended mode
 **D:/Documents/Projects/4YP-Report/main.tex
 (D:/Documents/Projects/4YP-Report/main.tex
@@ -854,11 +854,7 @@ Class scrreprt Warning: \float@addtolists detected!
 
 
 
-] [4
-
-
-
-]
+] [4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
  (D:\Documents\Projects\4YP-Report\main.aux
@@ -870,7 +866,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 61A266BD7C0EFD349BA0C9C39E9BBD8A;204.
+(rerunfilecheck)             Checksum: 2749C02711269309E570A2E945566722;566.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -878,22 +874,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
  ) 
 Here is how much of TeX's memory you used:
- 14537 strings out of 493921
- 222866 string characters out of 3147277
- 489456 words of memory out of 3000000
- 17508 multiletter control sequences out of 15000+200000
- 45544 words of font info for 58 fonts, out of 3000000 for 9000
+ 14572 strings out of 493921
+ 223456 string characters out of 3147277
+ 490456 words of memory out of 3000000
+ 17535 multiletter control sequences out of 15000+200000
+ 53635 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 45i,11n,67p,719b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,13n,67p,719b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on main.pdf (9 pages, 65274 bytes).
+Output written on main.pdf (9 pages, 71911 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 8225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 9289 words of extra memory for PDF output out of 10000 (max. 10000000)
 

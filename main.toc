@@ -3,3 +3,8 @@
 \select@language {UKenglish}
 \contentsline {part}{i\hspace {1em}\spacedlowsmallcaps {Some Kind of Manual}}{1}{part.1}
 \contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}The INTEGRAL Satellite}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Coded Masks}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}IBIS/ISGRI}{3}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}X-ray Sources}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}High Mass X-ray Binaries}{4}{subsection.1.2.1}
