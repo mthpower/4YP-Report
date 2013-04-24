@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  24 APR 2013 20:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  25 APR 2013 00:20
 entering extended mode
 **D:/Documents/Projects/4YP-Report/main.tex
 (D:/Documents/Projects/4YP-Report/main.tex
@@ -715,11 +715,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux)
-(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux
-
-LaTeX Warning: Label `ch:theoretical' multiply defined.
-
-))
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
@@ -735,7 +731,8 @@ LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Try loading font information for T1+pplj on input line 42.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -922,7 +919,7 @@ LaTeX Font Warning: Font shape `OMS/pplj/m/n' undefined
 
 
 
-]) [7]
+] [7] [8] [9] [10]) [11]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (D:\Documents\Projects\4YP-Report\main.aux
@@ -935,33 +932,31 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E2BB88D314C991B0A25C5E137B87179B;1379.
+(rerunfilecheck)             Checksum: 8B4AF7A1B67624F20A62F6ACC79877B9;1987.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 15077 strings out of 493921
- 231217 string characters out of 3147277
+ 15114 strings out of 493921
+ 231600 string characters out of 3147277
  505270 words of memory out of 3000000
- 18013 multiletter control sequences out of 15000+200000
- 59532 words of font info for 72 fonts, out of 3000000 for 9000
+ 18028 multiletter control sequences out of 15000+200000
+ 62023 words of font info for 82 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  45i,13n,67p,1107b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
-i8a.pfb>
-Output written on main.pdf (10 pages, 88060 bytes).
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/euler/eurm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
+8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (14 pages, 118749 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 11433 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 252 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 11497 words of extra memory for PDF output out of 12000 (max. 10000000)
 
