@@ -1,0 +1,31 @@
+% Chapter 2
+
+\chapter{Experimental Method} % Chapter title
+
+\label{ch:theoretical} % For referencing the chapter elsewhere, use \autoref{ch:introduction} 
+
+%----------------------------------------------------------------------------------------
+\section{Project Objectives}
+The project aims to:
+\begin{itemize}
+\item Plot and visualise the light curves from the INTEGRAL data for the sample of sources.
+\item Visualise the orbital light curves for the sources.
+\item Compare the Superfast X-ray Transient sources with both Be star X-ray Binaries and Supergiant X-ray Binaries. 
+\item Examine the eclipse profiles of those sources exhibiting them.
+\end{itemize}
+In order to achieve these aims it is necessary to have the tools to be able to produce a selection of results from the data. Chosen for familiarity and ease of use, Python was used as the programming language to produce the scripts and tools to analyse the data. The project used a standard build of Python 2.7, as well as additional libraries. Matplotlib was used to produce plots and graphs. Numpy and Scipy were used for their broad selection of tools that aid scientific computing.
+
+\section{Test Source}
+A large focus of the project was producing and testing the code for data analysis. Approximately half of the time spend during the year was spent testing and bug fixing. IGR J18027-2016 was selected as a test source. This source is a SGXB where the compact object is a neutron star that is accreting from a B giant. It is a particularly bright object, and also has a regular eclipse, which makes the source ideal for testing Lomb-Scargle period analysis, a key tool in the project. 
+
+\section{Aims}
+The code needs to perform the following:
+\begin{itemize}
+\item Read in the data from a text file.
+\item Filter the data.
+\item Re-bin the data into larger bins. Typically these will be approximately a day to a month. This then needs to be plotted.
+\item Find periodicities in the data using the Lomb-Scarge method and produce a periodogram.
+\item Additionally use Phase Dispersion Minimisation as a method of finding periods, and produce a graph of the result.
+\item Fold the light curve on a given period, and re-bin. Then plot a folded lightcurve for a source.
+\item Quantify errors for all these calculations.
+\end{itemize}

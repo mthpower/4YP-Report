@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  24 APR 2013 19:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  24 APR 2013 20:51
 entering extended mode
 **D:/Documents/Projects/4YP-Report/main.tex
 (D:/Documents/Projects/4YP-Report/main.tex
@@ -714,7 +714,12 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
-(D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux))
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux)
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux
+
+LaTeX Warning: Label `ch:theoretical' multiply defined.
+
+))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
@@ -730,8 +735,7 @@ LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Try loading font information for T1+pplj on input line 42.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -903,37 +907,61 @@ Chapter 2.
 
 
 
-]) [4] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
+]) [4] [5] (D:\Documents\Projects\4YP-Report\Chapters/Chapter03.tex
+Chapter 3.
+LaTeX Font Info:    Try loading font information for OMS+pplj on input line 11.
+
+LaTeX Font Info:    No file OMSpplj.fd. on input line 11.
+
+LaTeX Font Warning: Font shape `OMS/pplj/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 11.
+
+[6
+
+
+
+
+]) [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (D:\Documents\Projects\4YP-Report\main.aux
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titlepage.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
-(D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux)
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 99BC560E518B8FBCA1A7ED81F739ECEE;1133.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
+(rerunfilecheck)             Checksum: E2BB88D314C991B0A25C5E137B87179B;1379.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 15041 strings out of 493921
- 230443 string characters out of 3147277
- 504270 words of memory out of 3000000
- 17993 multiletter control sequences out of 15000+200000
- 59275 words of font info for 71 fonts, out of 3000000 for 9000
+ 15077 strings out of 493921
+ 231217 string characters out of 3147277
+ 505270 words of memory out of 3000000
+ 18013 multiletter control sequences out of 15000+200000
+ 59532 words of font info for 72 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 45i,13n,67p,1107b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,13n,67p,1107b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palat
-ino/uplri8a.pfb>
-Output written on main.pdf (8 pages, 74251 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
+/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
+i8a.pfb>
+Output written on main.pdf (10 pages, 88060 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 11401 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 11433 words of extra memory for PDF output out of 12000 (max. 10000000)
 
