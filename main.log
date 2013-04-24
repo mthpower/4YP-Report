@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  24 APR 2013 18:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  24 APR 2013 19:38
 entering extended mode
 **D:/Documents/Projects/4YP-Report/main.tex
 (D:/Documents/Projects/4YP-Report/main.tex
@@ -693,70 +693,85 @@ Using KOMA-command "deffootnote" for footnote setup
 Package: scrtime 2012/07/29 v3.11b KOMA-Script package (time of LaTeX run)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\remreset.sty")))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count142
+\Gm@cntv=\count143
+\c@Gm@tempcnt=\count144
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks28
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 (D:\Documents\Projects\4YP-Report\main.aux
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titlepage.aux)
-(D:\Documents\Projects\4YP-Report\FrontBackMatter/Titleback.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Try loading font information for T1+pplj on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 42.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count142
-\scratchdimen=\dimen157
+\scratchcounter=\count145
+\scratchdimen=\dimen165
 \scratchbox=\box32
-\nofMPsegments=\count143
-\nofMParguments=\count144
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count145
-\MPscratchDim=\dimen158
-\MPnumerator=\count146
-\makeMPintoPDFobject=\count147
-\everyMPtoPDFconversion=\toks29
+\nofMPsegments=\count146
+\nofMParguments=\count147
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count148
+\MPscratchDim=\dimen166
+\MPnumerator=\count149
+\makeMPintoPDFobject=\count150
+\everyMPtoPDFconversion=\toks30
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count148
+\c@lstlisting=\count151
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring ON on input line 39.
+Package hyperref Info: Link coloring ON on input line 42.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count149
+\c@section@level=\count152
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
 
 (D:\Documents\Projects\4YP-Report\main.out)
 (D:\Documents\Projects\4YP-Report\main.out)
 \@outlinefile=\write4
-LaTeX Info: Redefining \microtypecontext on input line 39.
+LaTeX Info: Redefining \microtypecontext on input line 42.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -768,25 +783,47 @@ Package microtype Info: No adjustment of character kerning.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ppl.cfg"
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 380.69794pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 628.23694pt, 108.405pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=380.69794pt
+* \textheight=628.23694pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-0.215pt
+* \headheight=15.95pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.60002pt
+* \marginparwidth=76.21515pt
+* \marginparsep=21.77576pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titlepage.tex [1
 
 
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
-(D:\Documents\Projects\4YP-Report\FrontBackMatter/Titleback.tex
-LaTeX Font Info:    Try loading font information for OMS+pplj on input line 10.
-
-LaTeX Font Info:    No file OMSpplj.fd. on input line 10.
-
-
-LaTeX Font Warning: Font shape `OMS/pplj/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 10.
-
-) [2
-
-
-] (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.tex) [3
+(D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.tex) [2
 
 
 
@@ -800,9 +837,9 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 13
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-)
-\tf@toc=\write5
-LaTeX Font Info:    Try loading font information for U+zeur on input line 18.
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 4.
+LaTeX Font Info:    Try loading font information for U+zeur on input line 4.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\eulervm\uzeur.fd"
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
@@ -810,7 +847,7 @@ File: uzeur.fd 2005/01/11 v4.0 (WaS)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-eur.cfg"
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for U+zeus on input line 18.
+LaTeX Font Info:    Try loading font information for U+zeus on input line 4.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\eulervm\uzeus.fd"
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
@@ -818,13 +855,12 @@ File: uzeus.fd 2005/01/11 v4.0 (WaS)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-eus.cfg"
 File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
 )
-LaTeX Font Info:    Try loading font information for U+zeuex on input line 18.
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 4.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\eulervm\uzeuex.fd"
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 18.
-
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 4.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -833,7 +869,9 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [4
+)
+\tf@toc=\write5
+ [3
 
 
 
@@ -865,43 +903,37 @@ Chapter 2.
 
 
 
-] [4]) [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+]) [4] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
  (D:\Documents\Projects\4YP-Report\main.aux
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titlepage.aux)
-(D:\Documents\Projects\4YP-Report\FrontBackMatter/Titleback.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 127.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 127.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 99BC560E518B8FBCA1A7ED81F739ECEE;1133.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 14592 strings out of 493921
- 224053 string characters out of 3147277
- 491468 words of memory out of 3000000
- 17540 multiletter control sequences out of 15000+200000
- 53635 words of font info for 62 fonts, out of 3000000 for 9000
+ 15041 strings out of 493921
+ 230443 string characters out of 3147277
+ 504270 words of memory out of 3000000
+ 17993 multiletter control sequences out of 15000+200000
+ 59275 words of font info for 71 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  45i,13n,67p,1107b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
-i8a.pfb>
-Output written on main.pdf (9 pages, 85286 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palat
+ino/uplri8a.pfb>
+Output written on main.pdf (8 pages, 74251 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 9353 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 150 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 11401 words of extra memory for PDF output out of 12000 (max. 10000000)
 
