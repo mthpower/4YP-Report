@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  14 APR 2013 22:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  24 APR 2013 18:06
 entering extended mode
 **D:/Documents/Projects/4YP-Report/main.tex
 (D:/Documents/Projects/4YP-Report/main.tex
@@ -698,7 +698,8 @@ Package: scrtime 2012/07/29 v3.11b KOMA-Script package (time of LaTeX run)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titleback.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
-(D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux))
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
@@ -840,19 +841,7 @@ Package microtype Info: Loading generic settings for font family
 
 
 ])
-Overfull \hbox (2.3592pt too wide) in paragraph at lines 87--87
-\T1/pplj/m/n/10.95 Illo prin-cip-al-mente su nos. Non mes-sage \T1/pplj/m/it/10
-.95 oc-ci-dental \T1/pplj/m/n/10.95 angloro-
- []
-
-[1
-
-
-
-
-
-
-] (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.tex
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter01.tex
 Chapter 1.
 
 Class scrreprt Warning: \float@addtolists detected!
@@ -861,46 +850,58 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              Support for \float@addtolists may be removed from
 (scrreprt)              `scrreprt' soon .
 
-) [2
+[1
 
 
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
+
+
+
+
+]) [2] (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.tex
+Chapter 2.
+[3
+
+
+
+
+] [4]) [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
  (D:\Documents\Projects\4YP-Report\main.aux
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titlepage.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titleback.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
-(D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 127.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 127.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A17F5AD8A2F5512A347E5A87E5149700;418.
+(rerunfilecheck)             Checksum: 99BC560E518B8FBCA1A7ED81F739ECEE;1133.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
  ) 
 Here is how much of TeX's memory you used:
- 14546 strings out of 493921
- 223046 string characters out of 3147277
- 490468 words of memory out of 3000000
- 17517 multiletter control sequences out of 15000+200000
- 45544 words of font info for 58 fonts, out of 3000000 for 9000
+ 14592 strings out of 493921
+ 224053 string characters out of 3147277
+ 491468 words of memory out of 3000000
+ 17540 multiletter control sequences out of 15000+200000
+ 53635 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 45i,11n,67p,719b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,13n,67p,1107b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on main.pdf (6 pages, 67495 bytes).
+Output written on main.pdf (9 pages, 85286 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 8249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 9353 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,8 +1,18 @@
 \select@language {UKenglish}
 \vspace {-\cftbeforepartskip }
 \select@language {UKenglish}
-\contentsline {part}{i\hspace {1em}\spacedlowsmallcaps {Some Kind of Manual}}{1}{part.1}
-\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}The INTEGRAL Satellite}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Coded Masks}{2}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}IBIS/ISGRI}{2}{subsection.1.1.2}
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}The INTEGRAL Satellite}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}IBIS/ISGRI}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Other Instruments on-board INTEGRAL}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Coded Masks}{2}{section.1.4}
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Theoretical Background}}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}X-ray Binaries}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Uhuru/SAS-A}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Mass Transfer and the Roche Lobe}{3}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}High Mass X-ray Binaries}{3}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Low Mass X-ray Binaries}{4}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Classes of HXMB}{4}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}SGXBs}{4}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}BeXBs}{4}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}SFXTs}{5}{subsection.2.4.3}
