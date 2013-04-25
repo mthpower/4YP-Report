@@ -46,6 +46,8 @@
 \contentsline {subsection}{\numberline {4.4.1}1A0535+262}{29}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}}{29}{subsection.4.4.2}
 \contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Conclusions}}{30}{chapter.5}
-\contentsline {section}{\numberline {5.1}}{30}{section.5.1}
+\contentsline {section}{\numberline {5.1}Classification of HXMBs}{30}{section.5.1}
+\contentsline {section}{\numberline {5.2}PDM method in comparison to the LS method}{30}{section.5.2}
+\contentsline {section}{\numberline {5.3}Understanding Lightcurve Folding}{31}{section.5.3}
 \vspace {\beforebibskip }
-\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{31}{dummy.2}
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{32}{dummy.2}

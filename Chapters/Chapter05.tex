@@ -1,0 +1,43 @@
+% Chapter 5
+
+\chapter{Conclusions} % Chapter title
+
+\label{ch:Conclusions} % For referencing the chapter elsewhere, use \autoref{ch:introduction} 
+
+%----------------------------------------------------------------------------------------
+
+\section{Classification of HXMBs}
+Of the initial sample of 22 High Mass X-ray Binaries, a majority have yielded results that would sort them into one of the three broad classes of sources, SGXBs, SFXTs and BeXBs. The tools coded for this project have, on the whole, worked well. The SGXBs have shown to be the easiest to identify. They typically have the shortest orbital periods of the three classes, and move from a state of being obscured by their donor star, and so have very low luminosity, to when they are visible to INTEGRAL, and so have a consistent, high, luminosity. Remembering that the Lomb-Scargle Method assumes that the data is sinusoidal, this assumption fits best to the SGXBs. Furthermore, they typically have the largest flux counts. They are also consistent 
+
+The Lomb-Scargle Method struggled to find periodicities in the SFXTs. Whilst their outbursts are normally periodic, they have greater inherent variability, perhaps due to fluctuations in the clumpy-ness of the solar wind feeding these objects. Their output is still moderated by their distance from their donor star, hence their eccentricity and orbital period, so this still allows to the Lomb-Scargle method to find this periodicity. This is probably why some of the SFXTs presented could be mistaken for SGXBs, particularly in weaker sources. The effect of the folding and averaging is to reduce the apparent variability. 
+
+However, the tools struggled to detect any significant periodicity in the sources where the scientific literature reports them to be BeXBs. BeXBs tend to go longer between outbursts, and so the sinusoidal approximation used by the Lomb-Scargle Method begins to break down. Whilst it is still capable of finding regularity in the outbursts, it weakens the strength of the peak, which makes it harder to detect in a noisier source. 
+
+\section{PDM method in comparison to the LS method}
+Unfortunately, the Phase Dispersion Minimisation struggled to find periodicities where it should have been more successful than the Lomb-Scargle method. Whilst it was easy to correlate dips in the dispersion statistic with peaks in the LS periodogram when testing the PDM code, showing that the method does work, when applying the method to fainter sources, in particular the BeXBs where the PDM should have an advantage over the LS, it did not provide any useful results. The PDM method was coded directly, rather than using an existing library routine, and so a lack of knowledge to optimise the routine, or to take advantage of any developments of the method in the astronomical community, did not contribute to it\textquoteright{}s success.
+
+\section{Understanding Lightcurve Folding}
+X-ray astronomy is a challenging field; physicists are always working on the edge of the resolving power of their instruments. This is frequently shown in the INTEGRAL data, which is often very noisy, even once filtered. Although long-term lightcurves are welcome, up to approximately 10 years in the case of INTEGRAL, it can be difficult to take advantage of this. When analysing the SGXBs, the folding of the lightcurve produced some good eclipse profiles. This works because the variability in the observed flux of a SGXB does not come from the source itself, but from it being shielded by it's donor. Our model of the SGXB subclass accounts for their intensity being approximately uniform. As a result, when folding the lightcurve, each point that contributes to a bin acts as expected, since many individual measurements of the same point of the orbit have been measured. However, with variable sources such as the SFXTs and BeXBs, this is more often counter-productive. These sources appear to be more weakly periodic, and outburst intensity can vary. Thus when folding, each point in a bin shouldn't always be considered an the \textquotedblleft{}same\textquotedblright{} measurement, such as the case with SGXBs. This has the effect of smearing out the actual variability of a source. Furthermore, this leads to a false confidence in the results, since the error of each bin appears to be superficially low. Systematically, it is obvious from the lightcurves that the error is much higher, due to the fluctuation between neighbouring points. 
+
+\section{Criticisms of the Project}
+A number of key mistakes were made throughout the project. This impacted on the quality of results, and the depth of study of the project sample. 
+
+\subsection{PDM}
+The PDM method proved to be a large challenge. Whilst in principle, it should have enabled discovery of periods in the BeXB sources in particular, it was not successful. It was difficult to implement from scratch in python, which led to a large amount of the project time being wasted in bug-hunting, and trying to test sine waves to see if the dispersion statistic was dipping correctly. As a learning exercise, it was more useful than if a library version in a different language had been used. However, a library version would have been more likely to have yielded results in a far shorter timeframe. 
+
+\subsection{Sample Focus}
+It was counter-productive to aim to look over the whole sample of sources, especially given the time available. A more sensible course of action would have been to have focussed on a handful of the most interesting, and luminous, sources. 
+
+
+\section{Further Work}
+There are several avenues that could be explored to further the results presented. 
+
+\subsection{Energy Band Comparisons}
+INTEGRAL has a wide spectral range, and a great deal of information could be extracted by making comparisons between bands. The eclipses of the SGXBs would be the most sensible place to start. By comparing between bands, the photon count is reduced in an individual band, hence the brightest and best resolved targets should be looked at first.
+
+\subsection{RXTE/ASM}
+The RXTE/ASM instrument looks in soft X-rays, and has been operating for longer. Particularly with the transient sources, ASM has captured more outbursts, which would aid in finding if there is any quasi-periodicity in the weaker sources. 
+
+\subsection{Further Analysis of the Periodograms}
+Periodograms can present a challenge to analyse, since it is not immediately obvious if a  
+
