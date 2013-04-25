@@ -1,41 +1,51 @@
 \select@language {UKenglish}
 \vspace {-\cftbeforepartskip }
 \select@language {UKenglish}
-\contentsline {part}{i\hspace {1em}\spacedlowsmallcaps {Project}}{1}{part.1}
-\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}The INTEGRAL Satellite}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}IBIS/ISGRI}{2}{section.1.2}
-\contentsline {section}{\numberline {1.3}Other Instruments on-board INTEGRAL}{2}{section.1.3}
-\contentsline {section}{\numberline {1.4}Coded Masks}{3}{section.1.4}
-\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Theoretical Background}}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}X-ray Binaries}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Uhuru/SAS-A}{4}{section.2.2}
-\contentsline {section}{\numberline {2.3}Mass Transfer and the Roche Lobe}{4}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}High Mass X-ray Binaries}{4}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Low Mass X-ray Binaries}{5}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Classes of HXMB}{5}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}SGXBs}{5}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}BeXBs}{5}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}SFXTs}{6}{subsection.2.4.3}
-\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Methodology}}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Project Objectives}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Test Source}{7}{section.3.2}
-\contentsline {section}{\numberline {3.3}Aims}{7}{section.3.3}
-\contentsline {section}{\numberline {3.4}Reading in Data}{8}{section.3.4}
-\contentsline {section}{\numberline {3.5}Filtering the Data}{8}{section.3.5}
-\contentsline {section}{\numberline {3.6}Re-binning the Data}{9}{section.3.6}
-\contentsline {section}{\numberline {3.7}Finding Periodicities}{10}{section.3.7}
-\contentsline {subsection}{\numberline {3.7.1}Lomb-Scargle Method}{11}{subsection.3.7.1}
-\contentsline {section}{\numberline {3.8}Folding the Lightcurve}{12}{section.3.8}
-\contentsline {subsection}{\numberline {3.8.1}Phase Dispersion Method}{13}{subsection.3.8.1}
-\contentsline {section}{\numberline {3.9}Error calculations of the Lomb-Scargle Period}{15}{section.3.9}
-\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Results}}{16}{chapter.4}
-\contentsline {section}{\numberline {4.1}List of Sources}{16}{section.4.1}
-\contentsline {section}{\numberline {4.2}Supergiant X-ray Binaries}{17}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Cen X-3}{17}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Vela X-1}{19}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}OAO1657-415}{19}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}IGRJ18027-2016}{20}{subsection.4.2.4}
-\contentsline {part}{ii\hspace {1em}\spacedlowsmallcaps {Appendix}}{22}{part.2}
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}The INTEGRAL Satellite}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}IBIS/ISGRI}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Other Instruments on-board INTEGRAL}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Coded Masks}{2}{section.1.4}
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Theoretical Background}}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}X-ray Binaries}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Uhuru/SAS-A}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Mass Transfer and the Roche Lobe}{3}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}High Mass X-ray Binaries}{3}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Low Mass X-ray Binaries}{4}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Classes of HXMB}{4}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}SGXBs}{4}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}BeXBs}{4}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}SFXTs}{5}{subsection.2.4.3}
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Methodology}}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Project Objectives}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Test Source}{6}{section.3.2}
+\contentsline {section}{\numberline {3.3}Aims}{6}{section.3.3}
+\contentsline {section}{\numberline {3.4}Reading in Data}{7}{section.3.4}
+\contentsline {section}{\numberline {3.5}Filtering the Data}{7}{section.3.5}
+\contentsline {section}{\numberline {3.6}Re-binning the Data}{8}{section.3.6}
+\contentsline {section}{\numberline {3.7}Finding Periodicities}{9}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Lomb-Scargle Method}{10}{subsection.3.7.1}
+\contentsline {section}{\numberline {3.8}Folding the Lightcurve}{11}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Phase Dispersion Method}{12}{subsection.3.8.1}
+\contentsline {section}{\numberline {3.9}Error calculations of the Lomb-Scargle Period}{14}{section.3.9}
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Results}}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}List of Sources}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Supergiant X-ray Binaries}{16}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Cen X-3}{16}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Vela X-1}{18}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}OAO1657-415}{18}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}IGRJ18027-2016}{19}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}IGRJ16418-4532}{21}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Superfast X-ray Transients}{23}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}IGRJ18483-0311}{23}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}IGRJ16479-4514}{25}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}IGRJ16465-4507}{25}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}IGRJ17544-2619}{26}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}IGRJ18450-0435}{26}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Be X-ray Binaries}{29}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}1A0535+262}{29}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}}{29}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Conclusions}}{30}{chapter.5}
+\contentsline {section}{\numberline {5.1}}{30}{section.5.1}
 \vspace {\beforebibskip }
-\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{23}{dummy.2}
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{31}{dummy.2}
