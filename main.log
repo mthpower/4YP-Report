@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  25 APR 2013 00:20
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.4.8)  25 APR 2013 02:40
 entering extended mode
 **D:/Documents/Projects/4YP-Report/main.tex
 (D:/Documents/Projects/4YP-Report/main.tex
@@ -715,7 +715,9 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux)
-(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux))
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux)
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter04.aux)
+(D:\Documents\Projects\4YP-Report\FrontBackMatter/Bibliography.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
@@ -838,7 +840,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 13
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <12> not available
 (Font)              Font shape `T1/pplj/b/n' tried instead on input line 4.
 LaTeX Font Info:    Try loading font information for U+zeur on input line 4.
 
@@ -870,6 +872,8 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 5.
 )
 \tf@toc=\write5
  [3
@@ -879,7 +883,14 @@ Package microtype Info: Loading generic settings for font family
 
 
 
-])
+]) [1
+
+
+
+
+
+
+]
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.tex
 Chapter 1.
 
@@ -889,22 +900,18 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              Support for \float@addtolists may be removed from
 (scrreprt)              `scrreprt' soon .
 
-[1
+[2
 
 
 
-
-
-
-
-]) [2] (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.tex
+]) [3] (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.tex
 Chapter 2.
-[3
+[4
 
 
 
 
-]) [4] [5] (D:\Documents\Projects\4YP-Report\Chapters/Chapter03.tex
+]) [5] [6] (D:\Documents\Projects\4YP-Report\Chapters/Chapter03.tex
 Chapter 3.
 LaTeX Font Info:    Try loading font information for OMS+pplj on input line 11.
 
@@ -914,39 +921,116 @@ LaTeX Font Warning: Font shape `OMS/pplj/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 11.
 
-[6
+[7
 
 
 
 
-] [7] [8] [9] [10]) [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+] [8] <gfx/Fig1.png, id=233, 586.8324pt x 442.2924pt>
+File: gfx/Fig1.png Graphic file (type png)
+ <use gfx/Fig1.png>
+Package pdftex.def Info: gfx/Fig1.png used on input line 47.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+
+[9 <D:/Documents/Projects/4YP-Report/gfx/Fig1.png>]
+<gfx/Fig2.png, id=241, 586.8324pt x 442.2924pt>
+File: gfx/Fig2.png Graphic file (type png)
+ <use gfx/Fig2.png>
+Package pdftex.def Info: gfx/Fig2.png used on input line 61.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+
+<gfx/Fig3.png, id=244, 586.8324pt x 442.2924pt>
+File: gfx/Fig3.png Graphic file (type png)
+ <use gfx/Fig3.png>
+Package pdftex.def Info: gfx/Fig3.png used on input line 74.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+ [10 <D:/Documents/Projects/4YP-Report/gfx/Fig2.png>] [11 <D:/Documents/Project
+s/4YP-Report/gfx/Fig3.png>] <gfx/Fig4.png, id=258, 586.8324pt x 442.2924pt>
+File: gfx/Fig4.png Graphic file (type png)
+
+<use gfx/Fig4.png>
+Package pdftex.def Info: gfx/Fig4.png used on input line 89.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+ [12 <D:/Documents/Projects/4YP-Report/gfx/Fig4.png>]
+<gfx/Fig5.png, id=267, 586.8324pt x 442.2924pt>
+File: gfx/Fig5.png Graphic file (type png)
+ <use gfx/Fig5.png>
+Package pdftex.def Info: gfx/Fig5.png used on input line 105.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+ [13 <D:/Documents/Projects/4YP-Report/gfx/Fig5.png>]
+<gfx/Fig6.png, id=275, 586.8324pt x 442.2924pt>
+File: gfx/Fig6.png Graphic file (type png)
+ <use gfx/Fig6.png>
+Package pdftex.def Info: gfx/Fig6.png used on input line 118.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+ [14 <D:/Documents/Projects/4YP-Report/gfx/Fig6.png>]) [15]
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter04.tex
+Chapter 4.
+[16
+
+
+
+
+]
+File: gfx/Fig1.png Graphic file (type png)
+ <use gfx/Fig1.png>
+Package pdftex.def Info: gfx/Fig1.png used on input line 42.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+File: gfx/Fig1.png Graphic file (type png)
+ <use gfx/Fig1.png>
+Package pdftex.def Info: gfx/Fig1.png used on input line 51.
+(pdftex.def)             Requested size: 369.88582pt x 278.78741pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [17
+
+] [18] [19
+
+
+
+
+
+]
+(D:\Documents\Projects\4YP-Report\FrontBackMatter/Bibliography.tex
+No file main.bbl.
+) [20
+
+
+
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
  (D:\Documents\Projects\4YP-Report\main.aux
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Titlepage.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Abstract.aux)
 (D:\Documents\Projects\4YP-Report\FrontBackMatter/Contents.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter01.aux)
 (D:\Documents\Projects\4YP-Report\Chapters/Chapter02.aux)
-(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter03.aux)
+(D:\Documents\Projects\4YP-Report\Chapters/Chapter04.aux)
+(D:\Documents\Projects\4YP-Report\FrontBackMatter/Bibliography.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 132.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 132.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8B4AF7A1B67624F20A62F6ACC79877B9;1987.
+(rerunfilecheck)             Checksum: 011C3344796642D668EED03F17174E9F;2317.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
  ) 
 Here is how much of TeX's memory you used:
- 15114 strings out of 493921
- 231600 string characters out of 3147277
- 505270 words of memory out of 3000000
- 18028 multiletter control sequences out of 15000+200000
- 62023 words of font info for 82 fonts, out of 3000000 for 9000
+ 15279 strings out of 493921
+ 234538 string characters out of 3147277
+ 506270 words of memory out of 3000000
+ 18142 multiletter control sequences out of 15000+200000
+ 73714 words of font info for 101 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 45i,13n,67p,1107b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,14n,67p,1107b,453s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/font
@@ -954,9 +1038,9 @@ s/type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/euler/eurm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
 8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (14 pages, 118749 bytes).
+Output written on main.pdf (23 pages, 344602 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 11497 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 355 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 15159 words of extra memory for PDF output out of 17280 (max. 10000000)
 
