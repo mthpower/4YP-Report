@@ -31,7 +31,11 @@
 \contentsline {section}{\numberline {3.9}Error calculations of the Lomb-Scargle Period}{15}{section.3.9}
 \contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Results}}{16}{chapter.4}
 \contentsline {section}{\numberline {4.1}List of Sources}{16}{section.4.1}
-\contentsline {section}{\numberline {4.2}Cen X-3}{17}{section.4.2}
-\contentsline {part}{ii\hspace {1em}\spacedlowsmallcaps {Appendix}}{19}{part.2}
+\contentsline {section}{\numberline {4.2}Supergiant X-ray Binaries}{17}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Cen X-3}{17}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Vela X-1}{19}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}OAO1657-415}{19}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}IGRJ18027-2016}{20}{subsection.4.2.4}
+\contentsline {part}{ii\hspace {1em}\spacedlowsmallcaps {Appendix}}{22}{part.2}
 \vspace {\beforebibskip }
-\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{20}{dummy.2}
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{23}{dummy.2}
